@@ -100,3 +100,10 @@
     -	minus sign (hyphen)
     .   dot
     !   exclamation mark
+
+markdown-syntax-ja by H Okano  
+    h.okano@gmail.com  
+    [twitter](https://twitter.com/okano)  
+    [telegram](https://telegram.me/lvmdc)  
+    [messenger](https://m.me/okano)  
+Released for free under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
