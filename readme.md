@@ -7,4 +7,5 @@ Markdownの書式まとめ日本語版です。 [markdown-syntax-ja][1] 自体�
 [1]: https://github.com/officeokano/markdown-syntax-ja/blob/master/markdown-syntax-ja.md
 [2]: https://opensource.org/licenses/mit-license.php
 
-10 Oct 2016: ライセンスをCCからMITに変更しました。大雑把に言うと条件は変わりません。
+10 Oct 2016: ライセンスをCCからMITに変更しました。大雑把に言うと条件は変わりません。  
+11 Jan 2017: 諸事情によりGitHubユーザー名を変更しました。
