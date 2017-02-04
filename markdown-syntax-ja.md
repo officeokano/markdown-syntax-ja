@@ -101,7 +101,7 @@
     .   dot
     !   exclamation mark
 
-[markdown-syntax-ja](https://github.com/officeokano/markdown-syntax-ja) by H Okano  
+[markdown-syntax-ja](https://officeokano.github.io/markdown-syntax-ja/) by H Okano  
 h.okano@gmail.com /
 [twitter](https://twitter.com/messages/compose?recipient_id=10862) /
 [messenger](https://m.me/okano)  
