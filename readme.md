@@ -11,3 +11,4 @@ Markdownの書式まとめ日本語版です。 [markdown-syntax-ja][1] 自体�
 11 Jan 2017: 諸事情によりGitHubユーザー名を変更しました。  
 1 Feb 2017: 誤植を修正しました。  
 4 Feb 2017: GitHub Pages を作成しました。  
+21 May 2019: Facebook とかもう使っていないので連絡先削除。
