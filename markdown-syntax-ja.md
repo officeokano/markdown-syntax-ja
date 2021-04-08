@@ -14,6 +14,10 @@
 10. [強調](#強調)
 11. [画像](#画像)
 12. [エスケープ](#エスケープ)
+13. [拡張書式](#拡張書式)
+14. [チェックボックス](#チェックボックス) 
+15. [定義リスト](#定義リスト)
+16. [拡張リンク](#拡張リンク)
 
 # 章と改行
 
@@ -120,6 +124,30 @@
     -	minus sign (hyphen)
     .   dot
     !   exclamation mark
+
+# 拡張書式
+
+ここから下は拡張書式のため対応していないない場合もある。
+
+# チェックボックス
+
+    - [ ] チェックボックス
+    - [x] 完了済
+    - [ ] 対応していなければリストとして [ ] がそのまま表示される
+
+# 定義リスト
+
+    タイトル
+    : 内容
+    : 対応していなければタイトル行に改行なしで続けて表示される
+    
+    : 未対応環境で改行させるためには1行開ける
+        : あるいは先頭にスペースを入れる
+
+# 拡張リンク
+
+    https://www.example.com <> で囲まなくてもURL がそのままリンクとして機能する
+    `https://www.example.com` リンクさせたくなければコードとして記述する
 
 [markdown-syntax-ja](https://officeokano.github.io/markdown-syntax-ja/) by [officeokano](https://officeokano.github.io)  
 Released for free under the [MIT license](https://opensource.org/licenses/mit-license.php)
