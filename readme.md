@@ -12,4 +12,4 @@ Markdownの書式まとめ日本語版です。 [markdown-syntax-ja][1] 自体�
 1 Feb 2017: 誤植を修正しました。  
 4 Feb 2017: GitHub Pages を作成しました。  
 21 May 2019: Facebook とかもう使っていないので連絡先削除しました。  
-8 Apr 2021: 拡張書式を追加しました。  
+9 Apr 2021: 拡張書式を追加しました。  
