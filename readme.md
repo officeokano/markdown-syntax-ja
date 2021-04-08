@@ -1,4 +1,4 @@
-# markdown-syntax-ja
+# [markdown-syntax-ja][1]
 
 Markdownの書式まとめ日本語版です。 [markdown-syntax-ja][1] 自体がマークダウン記法で書かれています。
 
